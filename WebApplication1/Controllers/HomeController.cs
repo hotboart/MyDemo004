@@ -13,7 +13,7 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult Index1()
+        public ActionResult Index122()
         {
             return View();
         }
